@@ -1,1 +1,1 @@
-# StuentManagementSystem
+# StudentManagementSystem
